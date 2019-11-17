@@ -1,0 +1,10 @@
+Package: com.debian.luca.forcereset
+Name: ForceReset
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Reset privacy & location permission via 3D touch shortcut!
+Maintainer: lucaIz-ldx
+Author: lucaIz-ldx
+Section: Tweaks
+Homepage: https://github.com/lucaIz-ldx
